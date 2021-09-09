@@ -1,0 +1,36 @@
+
+.input_img {
+    display: flex;
+    align-items: end;
+    width: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    flex-direction: column; 
+    align-content: center;
+    
+}
+
+.nav{  
+    flex:1;
+display: flex;
+    flex-direction: row; 
+    align-content: justify;
+    background-color:#1a2c3f;
+  // background-color:black;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 1300px;
+    
+}
+
+.butt{
+    display: flex;
+    align-items: end;
+    margin-top: 20px;
+    flex-direction: row; 
+    width: 1400px;
+    height: 70px; 
+    margin-left: 900px;
+}
+
